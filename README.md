@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Nextjs, react native**
 
-- 📫 How to reach me **Xandrf@protonmail.com**
+- 📫 How to reach me **Xandrf@xandrfdev.com**
 
 - 😄 My Pronouns are **HE/HIM/ELE**
 
