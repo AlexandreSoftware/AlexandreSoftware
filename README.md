@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/AlexandreSoftwaredev" target="blank"><img src="https://img.shields.io/twitter/follow/AlexandreSoftwaredev?logo=twitter&style=for-the-badge" alt="AlexandreSoftwaredev" /></a> </p>
 
-- 🔭 I’m currently working on [Wordle-Clone](https://github.com/AlexandreSoftware/wordle-clone)
+- 🔭 I’m currently working on [Rebuilding My Portfolio](https://github.com/AlexandreSoftware/Portfolio)
 
-- 👨‍💻 All of my projects are available at **https://AlexandreSoftware.github.io/projects**
+- 👨‍💻 My Portfolio is avaliable at **https://AlexandreSoftware.github.io/**
 
-- 🌱 I’m currently learning **Nextjs, react native**
+- 🌱 I’m currently learning **Math, Ai**
 
-- 📫 How to reach me **AlexandreSoftware@AlexandreSoftwaredev.com**
+- 📫 How to reach me **AlexandreAandrade@proton.me**
 
 - 😄 My Pronouns are **HE/HIM/ELE**
 
